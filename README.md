@@ -26,14 +26,14 @@ This project is a responsive website application developed as a completion of HT
 
 ## Author
 
-👤 **Ari Karim and Tedros Tesfay**
+👤 **Oni Olajumoke Priscilla and Tedros Tesfay**
 
 - Github: [Tedros Tesfay](https://github.com/tta2yta)
 - Emaii: tta2yta@gmail.com
-- Github: https://github.com/arikarim
-- Email: arikarim146@gmail.com
 
 👤
+- Github: [prolajumokeoni](https://github.com/prolajumokeoni)
+- Email: prolajumokeoni@gmail.com
 
 ## 🤝 Contributing
 
