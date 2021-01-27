@@ -22,7 +22,7 @@ This project is a responsive website application developed as a completion of HT
 
 ## Live Demo
 
-<a href="https://rawcdn.githack.com/tta2yta/the-next-web/929202f38a454517641e3322da798d5afb99319d/index.html">Live version</a>
+<a href="https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/a98f49cfed01527b543ea514e9c6eb2174a61245/index.html">Live version</a>
 
 ## Author
 
@@ -39,7 +39,7 @@ This project is a responsive website application developed as a completion of HT
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the <a href="https://github.com/tta2yta/the-next-web/issues" target="_blank">issues page</a>.
+Feel free to check the <a href="https://github.com/prolajumokeoni/The-Next-Web/issues/1#issue-795117627" target="_blank">issues page</a>.
 
 ## Show your support
 
