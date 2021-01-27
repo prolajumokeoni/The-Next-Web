@@ -362,3 +362,20 @@
       display: none;
     }
   }
+
+  @media (max-width: 767.99px) {
+    .nav1,
+    .bottom-left-nav,
+    .nav2 {
+      display: none;
+    }
+  
+    .right-icon .menu-icon11 {
+      display: block;
+    }
+  
+    .search-icon {
+      margin-right: 40px;
+      margin-top: -50px;
+    }
+  }
