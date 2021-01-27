@@ -610,3 +610,46 @@
       top: 70px;
     }
   }
+
+  /* Latest New  */
+
+.main1-header {
+    text-align: center;
+    margin-right: 1100px;
+    color: #f42;
+    margin-left: 2%;
+  }
+  
+  .header-flex {
+    white-space: nowrap;
+  }
+  
+  .main-heade-deals {
+    text-align: center;
+    margin-right: 1100px;
+    color: #f42;
+    margin-top: 30px;
+  }
+  
+  .main2-grid-cont {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    max-width: 1330px;
+    gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .grid-boxes {
+    max-width: 300px;
+  }
+  
+  .image-box {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .text-box {
+    padding: 5px;
+  }
