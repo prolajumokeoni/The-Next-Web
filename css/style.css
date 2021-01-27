@@ -99,3 +99,99 @@
     left: 0;
     margin-top: 0;
   }
+
+  .top-left-nav ul ul {
+    top: 25px;
+    background-color: black;
+    z-index: 22;
+    display: none;
+  }
+
+  .bottom-left-nav ul li {
+    padding: 15px;
+    list-style: none;
+    color: gray;
+  }
+  
+  .bottom-left-nav1 ul li {
+    padding: 15px;
+    list-style: none;
+  }
+  
+  .top-right-nav ul li {
+    padding: 10px;
+    list-style: none;
+  }
+  
+  .top-left-nav ul li {
+    padding: 7px;
+    list-style: none;
+  }
+
+  .top-left-nav ul ul li {
+    margin-left: -10px;
+  }
+
+  .top-left-nav ul li:hover > ul {
+    display: block;
+    width: 200px;
+    height: 100px;
+  }
+
+  .top-nav {
+    background-color: black;
+    height: 30px;
+    color: white;
+  }
+  
+  .top-left-nav {
+    top: 0;
+    left: 0;
+    width: 800px;
+  }
+  
+  .top-right-nav {
+    top: 0;
+    right: 0;
+    width: 800px;
+  }
+
+  /* Second Navbar */
+
+.nav2 {
+    top: 30px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    z-index: 9;
+  }
+  
+  .bottom-left-nav1 {
+    top: 0;
+    left: 0;
+    width: 800px;
+  }
+  
+  .right-icon1 {
+    right: 0;
+    top: 0;
+    padding-bottom: 10px;
+    width: 800px;
+  }
+  
+  .nav3 {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    z-index: 8;
+  }
+
+  .bottom-left-nav {
+    top: 0;
+    left: 0;
+    width: 800px;
+  }
