@@ -21,7 +21,7 @@ This project is a responsive website  developed in the HTML & CSS project of the
 - CSS
 
 ## Live Demo
-[The nextweek clone Live version]("https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html")
+[Live version](https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html)
 
 ## Author 1
 👤 **Tedros Tesfay**
@@ -38,7 +38,8 @@ This project is a responsive website  developed in the HTML & CSS project of the
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues/page]("https://github.com/prolajumokeoni/The-Next-Web/issues/1#issue-795117627").
+Feel free to check the [issues page](issues/https://github.com/prolajumokeoni/The-Next-Web/issues/1#issue-795117627)
+
 
 ## Show your support
 
