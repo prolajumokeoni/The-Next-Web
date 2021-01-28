@@ -17,7 +17,7 @@ This project is a responsive website  developed in the HTML & CSS project of the
 
 ## Built With
 
-- HTML,
+- HTML
 - CSS
 
 ## Live Demo
