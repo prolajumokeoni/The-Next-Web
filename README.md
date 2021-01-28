@@ -1,7 +1,7 @@
 
-# HTML/CSS Bootstrap project (Clone of thenextweb website)
+# HTML/CSS Responsive Design Project (Clone of thenextweb website)
 
-This project is a responsive website application developed as completion of the HTML & CSS section of Microverse main curriculum. It is a collaborative project intended to showcase HTML & CSS Skills. It is a real-world-like project built with some business specifications. It is a clone of the thenextweb website. It consists of only one page, that is the home page. It is adaptive to different standard screen sizes ( mobile, tablet, and desktop). It is developed with HTML and CSS solo.
+This project is a responsive website  developed in the HTML & CSS project of the Microverse main curriculum. It is a collaborative project intended to showcase  the use of media queries to make website responsive. It is a clone of the thenextweb website. It is adaptive to different standard screen sizes ( mobile, tablet, and desktop).
 
 ## Desktop
 
@@ -24,15 +24,16 @@ This project is a responsive website application developed as completion of the 
 
 <a href="https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html">Live version</a>
 
-## Author
-
-👤 **Oni Olajumoke Priscilla and Tedros Tesfay**
-
-- Github: [Tedros Tesfay](https://github.com/tta2yta)
+## Author1
+👤 **Tedros Tesfay**
+- [Github] [Tedros Tesfay](https://github.com/tta2yta)
 - Email: tta2yta@gmail.com
 
-- Github: [prolajumokeoni](https://github.com/prolajumokeoni)
-- Email: prolajumokeoni@gmail.com
+## Author2
+👤 **Oni Olajumoke Priscilla**
+
+- [Github] [prolajumokeoni](https://github.com/prolajumokeoni)
+- [Email] prolajumokeoni@gmail.com
 
 ## 🤝 Contributing
 
