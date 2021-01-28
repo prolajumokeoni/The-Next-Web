@@ -26,14 +26,14 @@ This project is a responsive website  developed in the HTML & CSS project of the
 
 ## Author1
 👤 **Tedros Tesfay**
-- [Github] (Tedros Tesfay](https://github.com/tta2yta)
-- [Email] (tta2yta@gmail.com)
+- [Github](https://github.com/tta2yta)
+- [Email](tta2yta@gmail.com)
 
 ## Author2
 👤 **Oni Olajumoke Priscilla**
 
-- [Github] (prolajumokeoni](https://github.com/prolajumokeoni)
-- [Email] (prolajumokeoni@gmail.com)
+- [Github](https://github.com/prolajumokeoni)
+- [Email](prolajumokeoni@gmail.com)
 
 ## 🤝 Contributing
 
