@@ -38,7 +38,7 @@ This project is a responsive website  developed in the HTML & CSS project of the
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/https://github.com/prolajumokeoni/The-Next-Web/issues/1#issue-795117627)
+Feel free to check the [issues page](https://github.com/prolajumokeoni/The-Next-Web/issues).
 
 
 ## Show your support
