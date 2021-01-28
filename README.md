@@ -31,7 +31,6 @@ This project is a responsive website application developed as completion of the 
 - Github: [Tedros Tesfay](https://github.com/tta2yta)
 - Email: tta2yta@gmail.com
 
-👤
 - Github: [prolajumokeoni](https://github.com/prolajumokeoni)
 - Email: prolajumokeoni@gmail.com
 
