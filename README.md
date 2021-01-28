@@ -21,15 +21,14 @@ This project is a responsive website  developed in the HTML & CSS project of the
 - CSS
 
 ## Live Demo
+[The nextweek clone Live version]("https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html")
 
-<a href="https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html">Live version</a>
-
-## Author1
+## Author 1
 👤 **Tedros Tesfay**
 - [Github](https://github.com/tta2yta)
 - [Email](tta2yta@gmail.com)
 
-## Author2
+## Author 2
 👤 **Oni Olajumoke Priscilla**
 
 - [Github](https://github.com/prolajumokeoni)
