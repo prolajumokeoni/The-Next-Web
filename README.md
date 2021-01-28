@@ -22,7 +22,7 @@ This project is a responsive website application developed as a completion of HT
 
 ## Live Demo
 
-<a href="https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/a98f49cfed01527b543ea514e9c6eb2174a61245/index.html">Live version</a>
+<a href="https://rawcdn.githack.com/prolajumokeoni/The-Next-Web/9d56f4ded445fa451a1ce60a064939def16ca662/index.html">Live version</a>
 
 ## Author
 
