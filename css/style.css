@@ -527,6 +527,20 @@ a {
     height: 70px;
     margin-top: -20px;
   }
+
+  .logo-inside-grid {
+    display: none;
+  }
+
+  .box1 .small-text1 {
+    position: absolute;
+    top: 100px;
+  }
+
+  .box1 .big-text {
+    position: absolute;
+    bottom: -10px;
+  }
 }
 
 @media (max-width: 767.99px) {
@@ -587,12 +601,14 @@ a {
       "top4";
   }
 
-  .small-text1 {
-    top: 50px;
+  .box1 .small-text1 {
+    position: absolute;
+    top: 70px;
   }
 
-  .big-text1 {
-    top: 80px;
+  .box1 .big-text {
+    position: absolute;
+    bottom: -30px;
   }
 
   .big-text2 {
