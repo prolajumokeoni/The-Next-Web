@@ -46,8 +46,13 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 [microverse.org](https://www.microverse.org/)
+
 [ZATTIX Mohammed Awad](https://www.behance.nehttps://www.microverse.org/t/gallery/24796463/ZATTIX)
+
 [w3schools.com](https://www.w3schools.com/)
+
 [The Odin Project](www.theodinproject.com)
+
 [Stackoverflow](https://www.stackoverflow.com/)
+
 [CSS-TRICKS](https://css-tricks.com/)
