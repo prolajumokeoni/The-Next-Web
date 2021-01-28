@@ -1,7 +1,7 @@
 
 # HTML/CSS Responsive Design Project (Clone of thenextweb website)
 
-This project is a responsive website  developed in the HTML & CSS project of the Microverse main curriculum. It is a collaborative project intended to showcase  the use of media queries to make website responsive. It is a clone of the thenextweb website. It is adaptive to different standard screen sizes ( mobile, tablet, and desktop).
+This project is a responsive website  developed in the HTML & CSS project of the Microverse main curriculum. It is a collaborative project intended to showcase  the use of media queries to make website responsive. It is a clone of the [thenext website](https://thenextweb.com/). We made the cloned website adaptive to different standard screen sizes ( mobile, tablet, and desktop).
 
 ## Desktop
 
